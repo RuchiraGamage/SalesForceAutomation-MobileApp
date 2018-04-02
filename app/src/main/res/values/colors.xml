@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#424242</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#89787e</color>
+    <color name="row_item_background">#6581b3</color>
+    <color name="black">#000000</color>
+    <color name="text_color1">#424242</color>
+    <color name="text_color2">#212121</color>
+    <color name="text_color4">#ffffff</color>
+    <color name="main_background">#bdbdbd</color>
+    <color name="background_1">#ca84c9</color>
+    <color name="background_2">#424242</color>
+    <color name="text_color3">#a10cce</color>
+    <color name="transparent">#75555555</color>
+    <color name="fully_transparent">#00555555</color>
+    <color name="toolbar">#424242</color>
+</resources>

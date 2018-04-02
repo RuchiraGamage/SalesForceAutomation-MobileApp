@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1071424259274",
+    "firebase_url": "https://salseforseautomation.firebaseio.com",
+    "project_id": "salseforseautomation",
+    "storage_bucket": "salseforseautomation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071424259274:android:a4b9ca927bdb3fec",
+        "android_client_info": {
+          "package_name": "com.example.salinda.salseforseautomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071424259274-mut0ft1qsm4ma9hink5oeep3lhoub83b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.salinda.salseforseautomation",
+            "certificate_hash": "7a2e865fb6eee8925a4bb986e3c6a53dff16f578"
+          }
+        },
+        {
+          "client_id": "1071424259274-3liauj6q5rmlig4sc5fvv2f2ro78o689.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSAEdU-B_pa2jRYi0BjowFj8zbTr8hMlA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071424259274-3liauj6q5rmlig4sc5fvv2f2ro78o689.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

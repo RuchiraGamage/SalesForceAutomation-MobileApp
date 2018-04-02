@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/layout_user">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/user_single_image"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/user" />
+
+    <TextView
+        android:id="@+id/user_single_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/user_single_status"
+        android:layout_alignTop="@+id/user_single_image"
+        android:text="Daniyel Martin"
+        android:textColor="#000a12"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/user_single_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/user_single_name"
+        android:layout_marginStart="18dp"
+        android:layout_toEndOf="@+id/user_single_image"
+        android:padding="2dp"
+        android:text="user default status"
+        android:textColor="#263238" />
+
+    <TextView
+        android:id="@+id/user_single_city"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/user_single_status"
+        android:layout_below="@+id/user_single_status"
+        android:padding="2dp"
+        android:text="city"
+        android:textColor="#000000" />
+
+</RelativeLayout>
