@@ -9,6 +9,6 @@ with the solution of enabling offline data syn. The application is designed to w
 At online conditions data is transferred to the main database and retrieve data from the main database. At offline conditions data is
 stored without allowing to be lost and the data is synchronized as soon as the connections are reset.
 
-![home screen](https://user-images.githubusercontent.com/25105254/39959253-b653c122-562c-11e8-82bf-4dad5c0bd3f4.png)
+
 
 
